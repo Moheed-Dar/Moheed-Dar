@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development and React Native 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Open-source projects related to web development, especially those involving React,  Node.js,Express.js, and MongoDB.
-- ✨ In future i will touch typescritp , nextjs and typescript in my skills.
+- ✨ In future i will touch typescript , next.js and tailwindCSS in my skills.
 - 📫 How to reach me
 -  Email: moheeddar324@gmail.com
    LinkedIn: https://www.linkedin.com/in/moheeddar
