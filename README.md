@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Moheed-Dar
 - 👀 I’m interested in Full Stack Development and React Native 
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Open-source projects related to web development, especially those involving React, Next.js, Node.js, and MongoDB.
+- 💞️ I’m looking to collaborate on Open-source projects related to web development, especially those involving React,  Node.js,Express.js, and MongoDB.
+- ✨ In future i will touch typescritp , nextjs and typescript in my skills.
 - 📫 How to reach me
 -  Email: moheeddar324@gmail.com
    LinkedIn: https://www.linkedin.com/in/moheeddar
    Twitter: Moheed Dar
 - 😄 he/him
-- ⚡ Fun fact: I have a perfect balance in life—watching movies and animated series, listening to music, coding, learning new things, and of course, sleeping! 🎬🎧💻😴
+- ⚡ Fun fact: I have a perfect balance in life— in the weekend  in can watching movies, listening to music, coding, exercise, learning new things, and of course, sleeping! 🎬🎧💻😴
 
 
 
