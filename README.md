@@ -8,7 +8,7 @@
    LinkedIn: https://www.linkedin.com/in/moheeddar
    Twitter: Moheed Dar
 - 😄 he/him
-- ⚡ Fun fact: I have a perfect balance in life— in the weekend  in can watching movies, listening to music, coding, exercise, learning new things, and of course, sleeping! 🎬🎧💻😴
+- ⚡ Fun fact: I have a perfect balance in life— in the weekend  i can  watching movies , and other routine i like that listening to music, coding, exercise, learning new things, and of course, sleeping! 🎬🎧💻😴
 
 
 
